@@ -90,4 +90,4 @@ python -m http.server 8000
 
 ---
 
-*Created with ❤️ by **Bhoomi Soni** for the **Codomax Internship Program**.*
+*Created with ❤️ by **Chamma Sharma** for the **Codomax Internship Program**.*
